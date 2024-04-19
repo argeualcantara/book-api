@@ -1,11 +1,11 @@
-# Book System API Documentation
+# Livrello API Specs
 
 Welcome to the documentation of the Book System API. This API allows access to and manipulation of information about books in the system.
 
 ## Base URL
 
 ```
-https://api.booksystem.com/v1
+https://api.livrello.com/v1
 ```
 
 ## Endpoints
