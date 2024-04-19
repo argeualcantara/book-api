@@ -1,4 +1,4 @@
-# Book System API - FAQ
+# Livrello API - FAQ
 
 ## 1. What is the Book System API?
 
