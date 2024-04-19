@@ -1,6 +1,6 @@
-# Livrello - Book API
+# Livrello API
 
-The Livrello Book API is a comprehensive platform for managing books, providing functionalities for adding, updating, deleting, and retrieving book information. It serves as a centralized repository for organizing and maintaining a collection of books.
+Livrello is a comprehensive API for managing books, providing functionalities for adding, updating, deleting, and retrieving book information. It serves as a centralized repository for organizing and maintaining a collection of books.
 
 ## Features
 
