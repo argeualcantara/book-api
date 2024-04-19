@@ -1,6 +1,6 @@
-# Livrello - Book System
+# Livrello - Book API
 
-The Book System is a comprehensive platform for managing books, providing functionalities for adding, updating, deleting, and retrieving book information. It serves as a centralized repository for organizing and maintaining a collection of books.
+The Livrello Book API is a comprehensive platform for managing books, providing functionalities for adding, updating, deleting, and retrieving book information. It serves as a centralized repository for organizing and maintaining a collection of books.
 
 ## Features
 
@@ -32,13 +32,13 @@ To get started with the Book System, follow these steps:
 
 ## Example Usage
 
-Below is an example of how to interact with the Book System API using Python's requests library:
+Below is an example of how to interact with the Livrello Book API using Python's requests library:
 
 ```python
 import requests
 
 # Book System API base URL
-base_url = 'https://api.booksystem.com/v1'
+base_url = 'https://api.livrello.com/v1'
 
 # Function to list all books
 def list_books():
@@ -50,7 +50,3 @@ def list_books():
 books = list_books()
 print('List of Books:', books)
 ```
-
-## Conclusion
-
-The Book System provides a convenient and efficient solution for managing books, allowing users to organize and maintain a collection of books effectively. With features for book listing, retrieval, addition, update, and deletion, the Book System simplifies the process of book management and organization.
