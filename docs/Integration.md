@@ -1,18 +1,18 @@
-# Book System API Integration Documentation
+# Livrello API Integration
 
-This documentation provides guidance on integrating the Book System API into your application for managing book-related functionalities.
+This documentation provides guidance on integrating the Livrello API into your application for managing book-related functionalities.
 
 ## API Base URL
 
-The base URL for accessing the Book System API endpoints is:
+The base URL for accessing the Livrello API endpoints is:
 
 ```
-https://api.booksystem.com/v1
+https://api.livrello.com/v1
 ```
 
 ## Authentication
 
-The Book System API does not require authentication for accessing book-related functionalities. All endpoints are publicly accessible.
+The Livrello API does not require authentication for accessing book-related functionalities. All endpoints are publicly accessible.
 
 ## API Endpoints
 
@@ -58,14 +58,14 @@ The Book System API does not require authentication for accessing book-related f
 
 ## Error Handling
 
-The Book System API returns appropriate HTTP status codes along with error messages in case of errors. Handle these errors in your application accordingly.
+The Livrello API returns appropriate HTTP status codes along with error messages in case of errors. Handle these errors in your application accordingly.
 
 ## Example Integration
 
-Below is an example of how to integrate the Book System API using JavaScript Fetch API:
+Below is an example of how to integrate the Livrello API using JavaScript Fetch API:
 
 ```javascript
-const apiUrl = 'https://api.booksystem.com/v1';
+const apiUrl = 'https://api.livrello.com/v1';
 
 // Function to list all books
 async function listBooks() {
@@ -89,4 +89,4 @@ listBooks()
 
 ## Conclusion
 
-This documentation provides the necessary information to integrate the Book System API into your application. Follow the guidelines and examples provided to ensure successful integration and efficient management of book-related functionalities.
+This documentation provides the necessary information to integrate the Livrello API into your application. Follow the guidelines and examples provided to ensure successful integration and efficient management of book-related functionalities.
