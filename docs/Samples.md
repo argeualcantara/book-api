@@ -1,4 +1,4 @@
-# Book System API - Sample Documentation
+# Livrello API - Samples
 
 This documentation provides sample code snippets demonstrating how to interact with the Book System API to manage books effectively.
 
@@ -11,7 +11,7 @@ To retrieve a list of all books available in the system, send a GET request to t
 ```python
 import requests
 
-base_url = 'https://api.booksystem.com/v1'
+base_url = 'https://api.livrello.com/v1'
 
 # List all books
 url = f'{base_url}/books'
@@ -33,7 +33,7 @@ To retrieve details of a specific book by its ID, send a GET request to the `/bo
 ```python
 import requests
 
-base_url = 'https://api.booksystem.com/v1'
+base_url = 'https://api.livrello.com/v1'
 book_id = '<BOOK_ID_TO_RETRIEVE>'
 
 # Get details of a specific book
@@ -56,7 +56,7 @@ To add a new book to the system, send a POST request to the `/books` endpoint wi
 ```python
 import requests
 
-base_url = 'https://api.booksystem.com/v1'
+base_url = 'https://api.livrello.com/v1'
 
 # Add a new book
 url = f'{base_url}/books'
