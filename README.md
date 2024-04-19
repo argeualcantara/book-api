@@ -1,4 +1,4 @@
-# Book System
+# Livrello - Book System
 
 The Book System is a comprehensive platform for managing books, providing functionalities for adding, updating, deleting, and retrieving book information. It serves as a centralized repository for organizing and maintaining a collection of books.
 
